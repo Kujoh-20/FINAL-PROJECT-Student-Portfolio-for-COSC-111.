@@ -1,4 +1,4 @@
-# Laboratory Activity #1
+# Laboratory Activity #3
 ## Working with Fire Sensors
 
 ### Course
