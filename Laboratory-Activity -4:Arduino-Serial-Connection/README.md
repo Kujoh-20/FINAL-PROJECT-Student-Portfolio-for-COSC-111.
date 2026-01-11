@@ -1,5 +1,5 @@
-# Laboratory Activity #1
-## Working with Blink Stop LED
+# Laboratory Activity #4
+## Working with Arduino Serial Connection
 
 ### Course
 COSC 111 – Internet of Things
