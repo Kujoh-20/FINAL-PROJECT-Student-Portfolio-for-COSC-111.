@@ -24,4 +24,4 @@ This activity demonstrates the practical application of digital signal processin
 The expected output of this activity is a system that continuously monitors for the presence of fire. When a flame or high heat source is detected, the alert device is activated. When no fire is detected, the alert remains off.
 
 ### Author
-Your Name
+John Oniel Thomas Araque
